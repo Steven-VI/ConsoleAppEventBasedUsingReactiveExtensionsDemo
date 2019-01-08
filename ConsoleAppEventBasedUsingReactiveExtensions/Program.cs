@@ -66,7 +66,10 @@ namespace ConsoleAppEventBasedUsingReactiveExtensions
             Console.WriteLine("Finished event based reactive execution");
             Console.ReadLine();
 
-            // LINQ Language-Integrated Query
+            // Using Linq to perform queries
+            /// Observables
+            /// LINQ Language-Integrated Query
+            /// Schedulers
 
         }
     }
